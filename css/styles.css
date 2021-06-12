@@ -62,7 +62,6 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -11197,7 +11196,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/vincent-guth-62V7ntlKgL8-unsplash.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/sami-takarautio-UZOpP-YHe9Q-unsplash.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
